@@ -4,6 +4,8 @@ Minimal drawing that demonstrates that a linear dimension's dimension line canno
 single end in OpenCADStudio 2026.46, and that the two "dimension line end" grips report
 `moves_entity: true` but do not change the dimension line when dragged.
 
+Upstream issue: https://github.com/HakanSeven12/OpenCADStudio/issues/3332
+
 ## Contents
 
 | File | What it is |
